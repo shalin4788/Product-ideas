@@ -20,9 +20,9 @@ A centralized hub for rapid prototyping, moving from high-level "vibe" to functi
 └── README.md               # Portfolio Hub (You are here)
 
 
-🚀 Projects Overview
-
 ## 🚀 Projects Overview
+
+---
 
 ### ⚖️ YieldMax
 **High-Integrity Yield Orchestration** *Institutional-grade integrity meets agentic velocity.*
@@ -46,5 +46,7 @@ Built on a **Hub-and-Spoke** model, this project treats personal goals as a "Tot
 * **Sentinel Agent:** Continuous monitoring of daily workflows and friction points.
 * **Planner Agent:** Long-range logic, strategic scheduling, and "look-ahead" optimization.
 * **Matchmaker Agent:** Contextual connectivity, identifying external people/tools that align with core goals.
+
+> **Philosophy:** Applying GTM superintelligence to personal productivity and life navigation.
 
 ---
