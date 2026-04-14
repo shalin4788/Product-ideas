@@ -1,47 +1,25 @@
-# Product Ideas & Agentic AI Prototypes
+# 🚀 Product Ideas & Agentic AI Prototypes
 **Shalin Gosalia** | *Senior Product Lead & AI Orchestrator*
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![AI-Orchestration](https://img.shields.io/badge/AI-Gemini%20%7C%20Claude-blueviolet?style=for-the-badge)](https://deepmind.google/technologies/gemini/)
+[![Status](https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge)](#)
+
 ---
+
+## 📂 Repository Architecture
+A centralized hub for rapid prototyping, moving from high-level "vibe" to functional agentic systems.
+
+```text
+.
+├── YieldMax/               # Institutional-grade automated oversight
+│   ├── src/agents/         # Scout, Auditor, and Enforcer logic
+│   └── README.md           # Technical verification specs
+├── pran.ai/                # Personal Life Navigator (Hub-and-Spoke)
+│   └── README.md           # Goal-driven orchestration architecture
+└── README.md               # Portfolio Hub (You are here)
+
 
 🚀 Projects Overview
 
-Shalin Gosalia | Senior Product Lead & AI Orchestrator
-
-1. YieldMax
-High-Integrity Yield Orchestration A "Zero-Trust" framework for automated oversight in volatile data environments. It uses a Tri-Agent Loop to separate signal detection from risk validation.
-
-Scout: Identifies yield/optimization signals.
-
-Auditor: Validates signals against compliance/risk guardrails (The Trust Layer).
-
-Enforcer: Executes actions only after dual-agent verification.
-
-Philosophy: Bringing Morgan Stanley-grade integrity to autonomous AI.
-
-2. pran.ai
-Agentic Life Navigator An AI-driven "Second Brain" designed for active orchestration rather than passive chat. It uses a Hub-and-Spoke model to manage personal goals, monitor daily friction, and surface strategic opportunities.
-
-The Orchestrator: Intent decomposition and task routing.
-
-Specialized Agents: Sentinel (Monitoring), Planner (Logic), and Matchmaker (Connectivity).
-
-Philosophy: Applying GTM superintelligence to personal productivity.
-
-🛠 The "Builder" Philosophy
-Agentic Orchestration: Moving away from monolithic prompts toward specialized, reasoning-based agent clusters.
-
-Vibe Coding Velocity: Utilizing Replit, Cursor, and Gemini 1.5 Pro to bridge the gap between architectural vision and functional deployment in record time.
-
-Scalable Architecture: Built with a modular "Agent-first" mindset, ensuring every prototype is ready for enterprise-level data integration.
-
----
-
-## 📂 Repository Structure
-```text
-.
-├── YieldMax/               # Multi-agent verification for financial data
-│   ├── src/agents/         # Scout, Auditor, and Enforcer logic
-│   └── README.md           # Institutional-grade integrity specs
-├── pran.ai/                # Personal "Life Navigator" hub-and-spoke system
-│   └── README.md           # Architecture for goal-driven orchestration
-└── README.md               # Main portfolio overview (this file)
+🛠️ Featured Prototypes⚖️ YieldMaxHigh-Integrity Yield Orchestration Bringing "Morgan Stanley-grade" integrity to autonomous AI execution.AgentResponsibilityLogic PatternScoutSignal DiscoveryScans volatile data for optimization opportunities.AuditorThe Trust LayerValidates signals against strict risk/compliance guardrails.EnforcerExecution ArmCommits actions only after dual-agent verification.Strategy: A "Zero-Trust" framework that decouples signal detection from risk validation, ensuring safety in high-stakes environments.🧠 pran.aiAgentic Life Navigator Moving from passive chat assistance to active life orchestration.Built on a Hub-and-Spoke model, this project treats personal goals as a "Total Addressable Market" and uses specialized agents to maximize the yield of time and attention.The Orchestrator: Handles intent decomposition and intelligent task routing.Sentinel Agent: Continuous monitoring of daily workflows and friction points.Planner Agent: Long-range logic, strategic scheduling, and "look-ahead" optimization.Matchmaker Agent: Contextual connectivity, identifying external people/tools that align with core goals.🏗️ The "Builder" Philosophy⚡ Vibe Coding VelocityLeveraging Replit, Cursor, and Gemini 1.5 Pro to bridge the gap between high-level architectural vision and functional deployment. I prioritize speed to prototype without sacrificing the structural integrity required for enterprise scaling.🤖 Agentic OrchestrationMoving beyond monolithic prompts toward specialized, reasoning-based agent clusters. This ensures every system is modular, transparent, and ready for high-fidelity data integration.<div align="center"><sub>Built with 🧠 and 🤖 by <a href="https://www.google.com/url?sa=E&source=gmail&q=https://github.com/shalin4788">Shalin Gosalia</a></sub></div>
