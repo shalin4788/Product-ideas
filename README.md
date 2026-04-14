@@ -25,6 +25,7 @@ A centralized hub for rapid prototyping, moving from high-level "vibe" to functi
 ---
 
 ### ⚖️ YieldMax
+
 **High-Integrity Yield Orchestration** *Institutional-grade integrity meets agentic velocity.*
 
 | Component | Responsibility | Logic Layer |
@@ -38,6 +39,7 @@ A centralized hub for rapid prototyping, moving from high-level "vibe" to functi
 ---
 
 ### 🧠 pran.ai
+
 **Agentic Life Navigator** *Moving from passive chat assistance to active life orchestration.*
 
 Built on a **Hub-and-Spoke** model, this project treats personal goals as a "Total Addressable Market" and uses specialized agents to maximize the yield of time and attention.
