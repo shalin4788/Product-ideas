@@ -31,7 +31,7 @@ Scalable Architecture: Built with a modular "Agent-first" mindset, ensuring ever
 
 
 
-
+.
 ├── YieldMax/               # Multi-agent verification for financial data
 │   ├── src/agents/         # Scout, Auditor, and Enforcer logic
 │   └── README.md           # Institutional-grade integrity specs
