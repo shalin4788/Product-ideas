@@ -29,7 +29,7 @@ A centralized hub for rapid prototyping, moving from high-level "vibe" to functi
 **High-Integrity Yield Orchestration** *Institutional-grade integrity meets agentic velocity.*
 
 | Component | Responsibility | Logic Layer |
-|-----------|-----------|---------|
+|-----------|----------------|-------------|
 | **Scout** | Signal Discovery | Scans volatile data for optimization opportunities. |
 | **Auditor** | The Trust Layer | Validates signals against strict risk/compliance guardrails. |
 | **Enforcer** | Execution Arm | Commits actions only after dual-agent verification. |
