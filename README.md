@@ -1,3 +1,8 @@
+# Product Ideas & Agentic AI Prototypes
+**Shalin Gosalia** | *Senior Product Lead & AI Orchestrator*
+
+---
+
 🚀 Projects Overview
 
 Shalin Gosalia | Senior Product Lead & AI Orchestrator
@@ -29,8 +34,10 @@ Vibe Coding Velocity: Utilizing Replit, Cursor, and Gemini 1.5 Pro to bridge the
 
 Scalable Architecture: Built with a modular "Agent-first" mindset, ensuring every prototype is ready for enterprise-level data integration.
 
+---
 
-
+## 📂 Repository Structure
+```text
 .
 ├── YieldMax/               # Multi-agent verification for financial data
 │   ├── src/agents/         # Scout, Auditor, and Enforcer logic
